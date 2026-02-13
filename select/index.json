@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最高だZ",
+  "base_artist": "–真天地開闢集団–ジグザグ",
+  "createdAt": "2026-02-13T07:04:43.534735Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最高だZ",
+      "artist": "–真天地開闢集団–ジグザグ",
+      "has_synced": false,
+      "path": "select/pl_01_最高だZ_–真天地開闢集団–ジグザグ.txt"
+    }
+  ]
+}
